@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Ejercicio_002</string>
+    <string name="resultado">Datos de la persona</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="boton1">Mostrar datos de la persona</string>
+    <string name="ejercicio">Realiza ejercicio diario</string>
+    <string name="estatura">Estatura en metros</string>
+    <string name="peso">Peso en kg</string>
+    <string name="nombre">Nombre de la persona</string>
+    <string name="boton2">Limpiar datos</string>
+    <string name="language">Selecciona el idioma</string>
+    <string name="name">Name Person</string>
+    <string name="weight">Weight in kg</string>
+    <string name="height">Height in meters</string>
+    <string name="exercise">Perform daily exercise</string>
+    <string name="men">Men</string>
+    <string name="Woman">Woman</string>
+    <string name="button1">Show data of the person</string>
+    <string name="result">Data of the person</string>
+    <string name="button2">Clean Data</string>
+    <string name="button3">Other Language</string>
+    <string name="boton3">Otro Idioma</string>
+    <string name="recomendation">Recomentation for your body</string>
+    <string name="diet">You need to eat more fruits and vegetables, your body is malnourished</string>
+    <string name="dietNormal">Good For you, your body is in good condition, keep eating fruits and vegetables</string>
+    <string name="dietOverWeight">I recommend a good diet, you need to eat fruits and vegetables, as well as exercise</string>
+    <string name="language2">Select Language</string>
+    <string name="recomendacion">Recomendación para tu cuerpo</string>
+    <string name="dietaSobrePeso">Te recomiendo una buena dieta, tu necesitas comer frutas y verduras, al igual hacer ejercicio</string>
+    <string name="dietaNormal">Bien por ti, tu cuerpo está en buenas condiciones, sigue comiendo frutas y verduras</string>
+    <string name="dieta">Necesita comer más frutas y verduras, su cuerpo está desnutrido</string>
+</resources>
